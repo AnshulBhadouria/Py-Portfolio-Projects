@@ -1,0 +1,11 @@
+openai
+langchain
+langchain_openai
+langchain_core
+langchain_community
+langchain_text_splitters
+langchain_huggingface
+Sentence_transformers
+transformers
+chromadb
+numpy
